@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "913169268147",
+    "firebase_url": "https://stok-takip-uygulamasi-1ccbd.firebaseio.com",
+    "project_id": "stok-takip-uygulamasi-1ccbd",
+    "storage_bucket": "stok-takip-uygulamasi-1ccbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913169268147:android:6cf25780d2020404",
+        "android_client_info": {
+          "package_name": "com.example.berkan.stoktakipuygulamasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913169268147-4uu5qm8a5nbtd05e9rl7lut9vv6g5gsn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsJEN1y7RReuZckQydLuE4zLa5Cdz45kg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
